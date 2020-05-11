@@ -1,0 +1,8 @@
+[submodule "deps/back"]
+	path = deps/back
+	url = git@github.com:rtisistemas-sites/vue-finances-back.git
+[submodule "deps/front2"]
+	path = deps/front2
+	url = git@github.com:rtisistemas-sites/vue-finances-front.git	
+
+
