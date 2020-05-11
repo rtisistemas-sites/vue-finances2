@@ -6,3 +6,9 @@
 	url = git@github.com:rtisistemas-sites/vue-finances-front.git	
 
 
+[submodule "dependencias/front"]
+	path = dependencias/front
+	url = git@github.com:rtisistemas-sites/vue-front.git
+[submodule "dependencias/back"]
+	path = dependencias/back
+	url = git@github.com:rtisistemas-sites/vue-back.git
