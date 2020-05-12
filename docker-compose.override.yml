@@ -6,9 +6,8 @@ services:
         command: --api --docker --docker.exposedbydefault=false
 
     api:
-       command:
-         npm run dev
+       command: npm run dev
        volumes: 
-        - ./deps/back:/usr/app  
+        - ./dependencias/back:/usr/app  
         - /usr/app/node_modules
            
